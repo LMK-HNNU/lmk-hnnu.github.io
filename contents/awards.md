@@ -1,16 +1,25 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+#### 竞赛获奖
+- <strong>李梦可</strong>，吴娟娟，赵俊淇. 边缘特征诱导的自注意力多尺度特征融合全卷积网络
+实现右心室自动分割. 2022年第三届湖南省研究生人工智能创新大赛. 省级一等奖.
 
-- National Scholarship for Graduate Student, 2024.
+- <strong>李梦可</strong>. 通过特征复用和多尺度权重卷积实现右心室自动分割
+与心脏功能评价指标测量. 2022年第四届“计量科学共享杯”. 国家级三等奖.
 
-- First-Prize Scholarship (CUMT), 2024.
+- 刘诗怡，吴杰，<strong>李梦可</strong>. 通过特征复用和多尺度权重卷积实现右心室自动分割.
+2023年第四届湖南省研究生人工智能创新大赛. 省级一等奖.
 
-- First-Prize Scholarship (CUMT), 2023.
+#### 校内获奖
 
-- Freshman Scholarship (CUMT), 2022.
+- 2021 学年度湖南师范大学三等奖学金.
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
+- 2022 学年度湖南师范大学一等奖学金.
 
-- First-Prize Enterprise Scholarship (CUMT), 2020.
+- 2023 学年度湖南师范大学二等奖学金.
 
-- First-Prize Scholarship (CUMT), 2019.
+- 2023 学年度硕士研究生国家奖学金.
+
+- 2023 学年度湖南师范大学优秀毕业生.
+- 2023 学年度湖南师范大学优秀研究生.
+
+
